@@ -1,6 +1,7 @@
-# MyFirstApp
+# Esercizio su services
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 6.0.0.
+Applicaizone che gestisce 2 liste di utenti (attivi/inattivi) grazie al servizio User.
+Viene anche implementatto un servizio di counter osserva le modifiche effettuate alla variabile id e ne stampa a console il valore.
 
 ## Development server
 
